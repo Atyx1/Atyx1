@@ -1,5 +1,4 @@
-#Hi !
- My name is Ahmet,<br> I am studying at Erciyes University 2nd year. <br>I am actively trying to create projects in the field of java and spring. <br>There are algorithms, web pages frontend, school projects that I have solved in my github repo.<br> I would be happy if you would review my work and give constructive criticism.
+
 
 
 ## 🌐 Socials:
